@@ -1,0 +1,6 @@
+D:\c#\C#3\урок2\MailSender\Encrypter\bin\Release\Encrypter.dll
+D:\c#\C#3\урок2\MailSender\Encrypter\bin\Release\Encrypter.pdb
+D:\c#\C#3\урок2\MailSender\Encrypter\obj\Release\Encrypter.csprojAssemblyReference.cache
+D:\c#\C#3\урок2\MailSender\Encrypter\obj\Release\Encrypter.csproj.CoreCompileInputs.cache
+D:\c#\C#3\урок2\MailSender\Encrypter\obj\Release\Encrypter.dll
+D:\c#\C#3\урок2\MailSender\Encrypter\obj\Release\Encrypter.pdb
